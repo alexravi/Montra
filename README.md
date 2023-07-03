@@ -1,7 +1,7 @@
 
 # Montra
 
-Montra is a simple and lightweight note-taking application built with Flutter. It allows users to create, read, update, and delete notes. This project aims to provide a minimalistic and efficient solution for organizing and managing personal notes.
+Montra is a simple and lightweight note-taking application built with Flutter. It allows users to track the transictions. This project aims to provide a minimalistic and efficient solution for organizing and managing personal notes.
 
 ## Features
 
