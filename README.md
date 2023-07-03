@@ -1,3 +1,4 @@
+
 # Montra
 
 Montra is a simple and lightweight note-taking application built with Flutter. It allows users to create, read, update, and delete notes. This project aims to provide a minimalistic and efficient solution for organizing and managing personal notes.
@@ -65,13 +66,17 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 Before contributing, please review the [contribution guidelines](CONTRIBUTING.md).
 
 ## Screenshots
-![Screenshot_20230703_150518](https://github.com/alexravi/montra/assets/69623604/c946c4fe-08dd-4b40-9d65-23c1df099253)
-![Screenshot_20230703_150500](https://github.com/alexravi/montra/assets/69623604/c48f3ff9-2212-4265-80d3-285f9c79625f)
-![Screenshot_20230703_150152](https://github.com/alexravi/montra/assets/69623604/9f9fb174-0606-4522-8a2b-8a3b40a0737e)
-![Screenshot_20230703_150719](https://github.com/alexravi/montra/assets/69623604/df515705-66a6-49f3-be04-9c8fcc85fc9f)
-![Screenshot_20230703_150711](https://github.com/alexravi/montra/assets/69623604/1fd7e30a-0930-4927-a0f7-b51e56ddaca7)
-![Screenshot_20230703_150703](https://github.com/alexravi/montra/assets/69623604/87a2dc7f-f55e-4a5e-9bb4-0c5abfa746c8)
 
+<p align="center">
+  <img src="https://github.com/alexravi/montra/assets/69623604/87a2dc7f-f55e-4a5e-9bb4-0c5abfa746c8" width="250" alt="Screenshot 1">
+  <img src="https://github.com/alexravi/montra/assets/69623604/df515705-66a6-49f3-be04-9c8fcc85fc9f" width="250" alt="Screenshot 2">
+  <img src="https://github.com/alexravi/montra/assets/69623604/1fd7e30a-0930-4927-a0f7-b51e56ddaca7" width="250" alt="Screenshot 3">
+  <img src="https://github.com/alexravi/montra/assets/69623604/9f9fb174-0606-4522-8a2b-8a3b40a0737e" width="
+
+250" alt="Screenshot 4">
+  <img src="https://github.com/alexravi/montra/assets/69623604/c48f3ff9-2212-4265-80d3-285f9c79625f" width="250" alt="Screenshot 5">
+  <img src="https://github.com/alexravi/montra/assets/69623604/c946c4fe-08dd-4b40-9d65-23c1df099253" width="250" alt="Screenshot 6">
+</p>
 
 ## License
 
