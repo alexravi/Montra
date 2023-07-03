@@ -1,12 +1,13 @@
-
 # Montra
 
-Montra is a simple and lightweight note-taking application built with Flutter. It allows users to track the transictions. This project aims to provide a minimalistic and efficient solution for organizing and managing personal notes.
+Montra is a simple and lightweight note-taking application built with Flutter. It allows users to create, read, update, and delete notes. This project aims to provide a minimalistic and efficient solution for organizing and managing personal notes.
 
 ## Features
 
 - User registration and authentication: Users can create an account and securely authenticate themselves.
-- Create and manage transictions: Users can create new transictions, view existing transictions and delete transictions.
+- Create and manage notes: Users can create new notes, view existing notes, update notes, and delete notes.
+- Search functionality: Users can search for specific notes using keywords or tags.
+- Markdown support: Notes can be written using Markdown syntax for rich text formatting.
 - Responsive design: The application is designed to work smoothly across different devices and screen sizes.
 
 ## Getting Started
@@ -50,7 +51,13 @@ These instructions will help you set up and run Montra on your local machine for
 
 Montra does not require any additional configuration for running the application locally. However, if you plan to deploy it to a production environment, you may need to modify certain settings, such as API endpoints or authentication mechanisms. Please refer to the relevant sections of the codebase and update them accordingly.
 
-## Contributing
+## Contributors
+
+We would like to thank the following contributors for their valuable contributions to Montra:
+
+- Alexander ([@salexravi]((https://github.com/alexravi)))
+- Bhavana ([@bhavana301]((https://github.com/bhavana301)))
+- Likitha ([@bhavana301]((https://github.com/bhavana301)))
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
