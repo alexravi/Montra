@@ -6,7 +6,7 @@ Montra is a simple and lightweight note-taking application built with Flutter. I
 ## Features
 
 - User registration and authentication: Users can create an account and securely authenticate themselves.
-- Create and manage notes: Users can create new transictions, view existing transictions, and delete transictions.
+- Create and manage transictions: Users can create new transictions, view existing transictions, and delete transictions.
 - Markdown support: Notes can be written using Markdown syntax for rich text formatting.
 - Responsive design: The application is designed to work smoothly across different devices and screen sizes.
 
