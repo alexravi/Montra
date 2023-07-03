@@ -58,8 +58,8 @@ We would like to thank the following contributors for their valuable contributio
 
 - Alexander ([@salexravi](https://github.com/alexravi))
 - Bhavana ([@bhavana301](https://github.com/bhavana301))
-- Likitha ([@bhavana301](https://github.com/bhavana301))
-- Varun ([@saivarun2108](https://github.com/saivarun2108))
+- Likhitha ([@Suppu2004](https://github.com/Suppu2004))
+- Sai Varun ([@saivarun2108](https://github.com/saivarun2108))
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
