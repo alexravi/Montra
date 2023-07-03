@@ -1,16 +1,24 @@
+
 # Montra
 
-Montra is a simple and lightweight web application built with Python and Flask framework. It allows users to create, read, update, and delete notes. This project aims to provide a minimalistic and efficient note-taking solution.
+Montra is a simple and lightweight note-taking application built with Flutter. It allows users to create, read, update, and delete notes. This project aims to provide a minimalistic and efficient solution for organizing and managing personal notes.
 
 ## Features
 
 - User registration and authentication: Users can create an account and securely authenticate themselves.
-- Create and manage notes: Users can create new notes, view existing notes, update notes, and delete notes.
-- Search functionality: Users can search for specific notes using keywords or tags.
-- Markdown support: Notes can be written using Markdown syntax for rich text formatting.
+- Create and manage transictions: Users can create new transictions, view existing transictions and delete transictions.
 - Responsive design: The application is designed to work smoothly across different devices and screen sizes.
 
-## Installation
+## Getting Started
+
+These instructions will help you set up and run Montra on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- Flutter SDK: Follow the official Flutter installation guide to install Flutter on your system: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+- Dart SDK: Make sure you have the Dart SDK installed along with Flutter.
+
+### Installation
 
 1. Clone the repository:
 
@@ -24,61 +32,23 @@ Montra is a simple and lightweight web application built with Python and Flask f
    cd montra
    ```
 
-3. Create a virtual environment:
+3. Get the dependencies:
 
    ```bash
-   python -m venv venv
+   flutter pub get
    ```
 
-4. Activate the virtual environment:
-
-   - For Windows:
-
-     ```bash
-     venv\Scripts\activate
-     ```
-
-   - For macOS and Linux:
-
-     ```bash
-     source venv/bin/activate
-     ```
-
-5. Install the dependencies:
+4. Run the application:
 
    ```bash
-   pip install -r requirements.txt
+   flutter run
    ```
 
-6. Set up the database:
-
-   ```bash
-   flask db init
-   flask db migrate
-   flask db upgrade
-   ```
-
-7. Start the application:
-
-   ```bash
-   flask run
-   ```
-
-   The application will be accessible at `http://localhost:5000`.
+   Make sure you have an emulator running or a physical device connected.
 
 ## Configuration
 
-The application can be configured by modifying the `config.py` file in the project's root directory. Here are some configuration options:
-
-- `SECRET_KEY`: Secret key used for securely signing the session cookie. Make sure to choose a strong, unique key.
-- `SQLALCHEMY_DATABASE_URI`: URI for the database connection. By default, it uses SQLite, but you can use other databases supported by SQLAlchemy.
-- `MAIL_SERVER`: SMTP server for sending emails for account activation and password reset.
-- `MAIL_PORT`: Port number for the SMTP server.
-- `MAIL_USE_TLS`: Enable or disable TLS for the SMTP connection.
-- `MAIL_USERNAME` and `MAIL_PASSWORD`: Credentials for the SMTP server.
-- `UPLOAD_FOLDER`: Path to the folder where file uploads are stored.
-
-Make sure to set the appropriate configuration values before running the application in production.
+Montra does not require any additional configuration for running the application locally. However, if you plan to deploy it to a production environment, you may need to modify certain settings, such as API endpoints or authentication mechanisms. Please refer to the relevant sections of the codebase and update them accordingly.
 
 ## Contributing
 
@@ -92,6 +62,6 @@ Montra is released under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Montra was created by Alex Ravi as a personal project and is provided as an open-source application for others to use and learn from. The project utilizes the Flask framework and various other open-source libraries and tools, to which the author expresses gratitude.
+Montra was created by Alex Ravi as a personal project and is provided as an open-source application for others to use and learn from. The project utilizes the Flutter framework and various other open-source libraries and tools, to which the author expresses gratitude.
 
-Special thanks to the Flask and Python communities for their valuable contributions and support.
+Special thanks to the Flutter and Dart communities for their valuable contributions and support.
